@@ -1,0 +1,20 @@
+:root{
+    --INDIAN-YELLOW:#D29945;
+    --FOREST-GREEN:#76B683;
+    --CHARCOAL-BLUE:#334750;
+    --DEEP-TEAL:#1F524C;
+    --ROSE :#C875B8; 
+    --blanc:#ffffff; 
+}
+.Acceuil{
+    background-color: var(--FOREST-GREEN);
+    display: flex;
+}
+
+.Acceuil p{
+   font-size: 30px;
+
+   font-weight: bold;
+   color: var(--blanc);
+   padding: 50px;
+}
