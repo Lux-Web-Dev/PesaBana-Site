@@ -6,15 +6,23 @@
     --ROSE :#C875B8; 
     --blanc:#ffffff; 
 }
-.Acceuil{
+
+section {
+    padding: 80px 0; /* Espacement interne (haut/bas) */
+    margin-bottom: 100px; /* Ajoute un espace entre chaque section */
+  }
+  
+#Qui-sommes-nous{
     background-color: var(--FOREST-GREEN);
     display: flex;
+    color: var(--blanc);
 }
 
-.Acceuil p{
-   font-size: 30px;
-
-   font-weight: bold;
-   color: var(--blanc);
-   padding: 50px;
+#Actualites{
+  background-color: var(--blanc);
 }
+
+
+#Actualites .btn-group{
+    background-color: var(--INDIAN-YELLOW);
+  }

@@ -1,0 +1,58 @@
+Nav:
+
+Move It
+Home
+About
+Services 
+Postcode
+Check
+
+Hero:
+
+Move With Joy
+Welcome to our website, where we are on a mission to provide exceptional moving services to customers in the US. As a startup, we believe that moving doesn't have to be stressful or complicated, and we are passionate about making the process as seamless and enjoyable as possible.
+Get a Quote
+Contact US
+
+Features:
+
+Why Move With Us?
+
+Personnalité 
+Chrétien, j'aime tout le monde et je suis la lumière du monde. J'aime aider les personnes autour de moi et même celle que je ne connais pas. 
+Ouvert, je donne mon temps à des associations pour aider mon projet. La technologie et l'enseignement sont mes passions. 
+J'aime également la bonne nourriture surtout quand c'est fait avec amour.
+
+v2
+
+Chrétien et inspiré par l'amour de Dieu selon Jean 3.16, je suis la lumière du monde selon Matthieu 5.14. Mon bonheur, c'est d'aider, de tendre la main à tous – que je les connaisse ou non – et d’apporter mon soutien là où il est nécessaire.
+Donner de mon temps aux associations est pour moi plus qu’un simple engagement ; c’est une mission, une contribution concrète à quelque chose de plus grand que moi. 
+Pour couronner le tout, j'aime la bonne cuisine, surtout lorsqu’elle est préparée avec amour ! 
+
+Professionnel
+Je travaille essentiellement sur le développement embarqué et tout recemment dans le développement Web. Du design à réalisation et l'hebergement du site.
+La conception au routage de la carte. De l'idée à la matérialisation de vos idées aux moyens d'un programme simple et efficace.
+Je programme avec les langages comme : C/C++, CUDA, VHDL, HTML, CSS, Javascript, Reactjs. 
+
+v2
+
+Je suis passionné par la création et l'innovation ! Mes connaissances se déploient principalement dans le développement embarqué, mais je me suis récemment plongé dans le monde fascinant du développement web. Du design jusqu'à la mise en ligne, je m’investis à chaque étape pour transformer une simple idée en une réalisation concrète et impactante.
+
+Mon approche ? Partir de la conception jusqu'au routage de la carte, en passant par chaque détail qui rend votre projet unique. Avec un programme simple, puissant et efficace, je donne vie à vos idées en les matérialisant avec précision.
+
+Je maîtrise une palette de langages pour répondre aux besoins les plus exigeants : C/C++, CUDA, VHDL, HTML, CSS, JavaScript, et React.js. Chacun de ces outils est pour moi un moyen d’expression, une façon de bâtir des solutions performantes et novatrices pour l'avenir.
+
+Créativité, rigueur et efficacité sont au cœur de mon travail !
+
+Qualité
+J'aime le travail minitieux et bien fait. J'ai été consultant pour une startup <Piamot> pour le développement du leurs produits. Je suis en cours de réalisation d'un site web pour une association.
+Bien d'autres projets intéressants (voir l'onglet projet). 
+
+v2
+Je suis passionné par le travail bien fait, avec une attention particulière aux détails. En tant que consultant pour la startup Piamot, j'ai eu l'opportunité de participer au développement de leurs produits, une expérience enrichissante qui a renforcé mon expertise et mon souci de la qualité.
+
+En ce moment, je travaille avec enthousiasme sur la création d’un site web pour une association, un projet qui me permet de mettre mes compétences au service d’une cause qui me tient à cœur. Et bien d’autres projets intéressants m’attendent encore (découvrez-les dans l'onglet Projets), chacun étant une nouvelle aventure où je m’efforce d’apporter une meilleur version de moi même.
+
+
+
+
