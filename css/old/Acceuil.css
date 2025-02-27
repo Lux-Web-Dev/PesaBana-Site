@@ -1,0 +1,100 @@
+:root{
+    --INDIAN-YELLOW:#D29945;
+    --FOREST-GREEN:#76B683;
+    --CHARCOAL-BLUE:#334750;
+    --DEEP-TEAL:#1F524C;
+    --ROSE :#C875B8; 
+    --blanc:#ffffff; 
+}
+
+section {
+    padding: 80px 0; /* Espacement interne (haut/bas) */
+    margin-bottom: 100px; /* Ajoute un espace entre chaque section */
+  }
+  
+#Qui-sommes-nous{
+    background-color: var(--FOREST-GREEN);
+    display: flex;
+    color: var(--blanc);
+}
+
+#Actualites{
+  background-color: var(--blanc);
+}
+
+
+#Actualites .btn-group{
+    background-color: var(--INDIAN-YELLOW);
+  }
+
+/* footer  */
+.ftco-section {
+  padding: 12em 0; }
+  .ftco-section h2 {
+    margin-bottom: 0; }
+
+  footer {
+    padding: 7em 0; }
+  
+  .footer-08 {
+    padding: 0;
+    overflow: hidden;
+    background: #f1f6f5; }
+    .footer-08 a {
+      color: #12cc94; }
+    .footer-08 p {
+      color: rgba(0, 0, 0, 0.3); }
+    .footer-08 .footer-heading {
+      font-size: 18px;
+      margin-bottom: 30px; }
+      @media (min-width: 768px) {
+        .footer-08 .footer-heading.footer-heading-white {
+          color: #fff; } }
+    .footer-08 ul.list-unstyled li a {
+      color: rgba(0, 0, 0, 0.3); }
+    .footer-08 .contact-form {
+      width: 100%; }
+      .footer-08 .contact-form .form-control {
+        height: 50px;
+        background: #fff;
+        color: rgba(0, 0, 0, 0.3);
+        font-size: 14px;
+        border-radius: 5px;
+        -webkit-box-shadow: none;
+        box-shadow: none;
+        border: none; }
+        .footer-08 .contact-form .form-control::-webkit-input-placeholder {
+          /* Chrome/Opera/Safari */
+          color: rgba(0, 0, 0, 0.3) !important; }
+        .footer-08 .contact-form .form-control::-moz-placeholder {
+          /* Firefox 19+ */
+          color: rgba(0, 0, 0, 0.3) !important; }
+        .footer-08 .contact-form .form-control:-ms-input-placeholder {
+          /* IE 10+ */
+          color: rgba(0, 0, 0, 0.3) !important; }
+        .footer-08 .contact-form .form-control:-moz-placeholder {
+          /* Firefox 18- */
+          color: rgba(0, 0, 0, 0.3) !important; }
+        .footer-08 .contact-form .form-control:focus {
+          outline: none !important;
+          -webkit-box-shadow: none;
+          box-shadow: none; }
+        .footer-08 .contact-form .form-control:focus, .footer-08 .contact-form .form-control:active {
+          outline: none !important;
+          -webkit-box-shadow: none;
+          box-shadow: none; }
+      .footer-08 .contact-form .submit {
+        background: #2f89fc !important;
+        color: #fff; }
+      .footer-08 .contact-form textarea.form-control {
+        height: inherit !important; }
+    .footer-08 .aside-stretch-right {
+      background: #12cc94; }
+      .footer-08 .aside-stretch-right:after {
+        background: #12cc94; }
+      @media (max-width: 767.98px) {
+        .footer-08 .aside-stretch-right {
+          background: transparent; }
+          .footer-08 .aside-stretch-right:after {
+            background: transparent;
+            display: none; } }

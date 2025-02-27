@@ -1,0 +1,105 @@
+@import url("./style.css");
+@import url("./menu.css");
+@import url("./Acceuil.css");
+@import url("./about.css");
+@import url("./footer.css");
+
+
+body{
+    font-family: 'Arista Pro Alternate', sans-serif;
+    font-size: x-large;
+    font-weight: 50px;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: white;
+    color: black;
+    font-size: 20px;
+    font-weight: 2rem;
+    font-family: 'Arista Pro Alternate', sans-serif;
+}
+
+.navbar{
+  height: 80px; /* Ajuste selon ton besoin */
+  display: flex;
+  align-items: center; /* Centre le contenu verticalement */
+  padding: 5px 15px; /* Ajuste le padding */
+  background-color: #f6f8f7;
+}
+
+.navbar .nav-link {
+  color: var( --CHARCOAL-BLUE) !important; /* Applique la couleur exacte */
+  font-weight: lighter; /* Ajuste l'épaisseur du texte */
+  font-weight: 500;
+}
+
+.navbar .nav-link:hover {
+  color: var(--INDIAN-YELLOW) !important; /* Légèrement plus foncé au survol */
+}
+
+.navbar .nav-link.active {
+  color: var(--INDIAN-YELLOW) !important; /* Change la couleur pour le lien actif */
+  /* border-bottom: 1px solid var( --DEEP-TEAL);  */
+}
+.navbar img {
+  display: flex;
+  max-height: 80px; /* Taille maximale du logo */
+  width: auto; /* Maintient les proportions */
+  object-fit: contain; /* Ajuste la taille de l'image */
+  align-items: center;
+  justify-content: center;
+}
+.navbar .container-fluid {
+  display: flex;
+  align-items: center; /* Aligns all navbar items properly */
+  justify-content: space-between; /* Spreads elements evenly */
+}
+
+.custom-donate-btn {
+  margin-left: 20px; /* Adds space between nav items & button */
+  padding: 10px 20px; /* Adjust button size */
+  font-size: 16px; /* Ensures good readability */
+}
+
+
+.custom-donate-btn {
+    background-color:  var(--INDIAN-YELLOW); /* Custom color */
+    color: white; /* Text color */
+    border: none; /* Optional: remove border */
+  }
+  
+  .custom-donate-btn:hover {
+    background-color: var( --CHARCOAL-BLUE); /* Hover effect */
+    color: white;
+  }
+  
+  .custum-navbar{
+    background-color: white;
+  }
+
+  .carousel-item img {
+    max-height: 500px; /* Ajustez selon vos besoins */
+    object-fit: cover;
+  }
+
+  .jumbotron {
+    min-height: 700px; /* Hauteur standard pour une section */
+    padding: 0px 0; /* Espacement haut/bas */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* text-align: center;  */
+    background-color: #f8f9fa; /* Couleur de fond (peut être changée) */
+}
+
+.jumbotron h1 {
+    font-size: 3rem; /* Taille standard pour un titre principal */
+    font-weight: bold;
+    color: #334750; /* Couleur du texte */
+    max-width: 900px; /* Évite que le texte soit trop large */
+    line-height: 1.3; /* Espacement entre les lignes */
+}

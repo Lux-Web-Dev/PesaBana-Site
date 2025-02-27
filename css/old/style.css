@@ -1,0 +1,20 @@
+
+:root{
+    --INDIAN-YELLOW:#D29945;
+    --FOREST-GREEN:#76B683;
+    --CHARCOAL-BLUE:#334750;
+    --DEEP-TEAL:#1F524C;
+    --Orchid :#C875B8; 
+    --blanc:#ffffff; 
+}
+
+.apropos{
+    background-color: var(--CHARCOAL-BLUE);
+}
+
+ .nos-actions{
+    background-color: var(--INDIAN-YELLOW);
+}
+.apropos{
+    background-color: var(--CHARCOAL-BLUE);
+}
